@@ -1,0 +1,17 @@
+How to install:
+Note: .minecraft folder is usually in: %appdata%\.minecraft\
+1. Copy "versions" folder to .minecraft folder
+2. Copy "shaderpacks" folder to .minecraft folder
+3. Make sure mods folder in .minecraft is empty before proceeding the next step
+4. Copy contents of "Noobtifine" folder into "mods" folder
+5. Open your launcher, run minecraft using the appropriate quilt modloader version"
+6. navigate to resource pack, make sure these are selected: 
+	- Glass Pane Culling fix
+	- Default connected textuers
+	- lambdabettergrass
+  *Make sure all these resource packs are above "Default"
+
+Installation complete.
+
+- Anti Aliasing (TAA) can be enabled by using shaders accessible from: video settings > shaders > AntiAliasing shaders
+- Leaves may look bad, you can make it better by changing adding Cull Leaves Depth (video settings > performance) under the sacrifice of GPU load

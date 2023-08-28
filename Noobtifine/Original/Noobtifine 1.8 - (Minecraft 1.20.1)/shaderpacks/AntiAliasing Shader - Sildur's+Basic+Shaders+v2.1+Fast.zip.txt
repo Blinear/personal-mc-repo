@@ -1,0 +1,15 @@
+#Mon Mar 27 18:40:44 WIB 2023
+Waving_Fire=false
+Waving_Grass=false
+HandLight=false
+Waving_Water=false
+Waving_Lava=false
+Waving_Entities=false
+Crossprocess=false
+TAA_sharpness=0.45
+TAA=true
+Waving_Lanterns=false
+Waving_Leaves=false
+Waving_Tallgrass=false
+Fog=false
+Waving_Vines=false
