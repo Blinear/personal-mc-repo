@@ -99,6 +99,7 @@ QoL:
 - [E4mc](https://modrinth.com/mod/e4mc/versions)
 - [Carpet](https://modrinth.com/mod/carpet/versions)
 - [ItemScroller](https://www.curseforge.com/minecraft/mc-mods/item-scroller/files/all?page=1&pageSize=20)
+- [InventoryTabs](https://modrinth.com/mod/inventory-tabs/versions)
 - [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica/files/all?page=1&pageSize=20)
 - [Malilib](https://www.curseforge.com/minecraft/mc-mods/malilib/files/all?page=1&pageSize=20)
 - [Minihud](https://www.curseforge.com/minecraft/mc-mods/minihud/files/all?page=1&pageSize=20)
