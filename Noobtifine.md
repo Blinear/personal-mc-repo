@@ -123,6 +123,7 @@ Performance:
 - [Lithium](https://modrinth.com/mod/lithium/versions)
 - [MoreCulling](https://modrinth.com/mod/moreculling/versions)
 - [Nvidium](https://modrinth.com/mod/nvidium/versions)
+- [ResolutionControl+](https://modrinth.com/mod/resolution-control-plus/versions)
 - [SodiumExtra](https://modrinth.com/mod/sodium-extra/versions)
 - [Sodium](https://modrinth.com/mod/sodium/versions)
 Cosmetics:
