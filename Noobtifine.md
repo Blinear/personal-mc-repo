@@ -111,7 +111,7 @@ QoL:
 - [Tweakaroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo/files/all?page=1&pageSize=20)
 - [Zoomify](https://modrinth.com/mod/zoomify/versions)
 Performance:
-- [DistantHorizon](https://modrinth.com/mod/distanthorizons/versions)
+- [Bobby](https://modrinth.com/mod/bobby/versions)
 - [DynamicFPS](https://modrinth.com/mod/dynamic-fps/versions)
 - [EntityCulling](https://modrinth.com/mod/entityculling/versions)
 - [FabricAPI](https://modrinth.com/mod/fabric-api/versions)
