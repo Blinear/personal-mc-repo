@@ -127,6 +127,7 @@ Performance:
 - [ResolutionControl+](https://modrinth.com/mod/resolution-control-plus/versions)
 - [SodiumExtra](https://modrinth.com/mod/sodium-extra/versions)
 - [Sodium](https://modrinth.com/mod/sodium/versions)
+
 Cosmetics:  
 - [Capes](https://modrinth.com/mod/capes/versions)
 - [Continuity](https://modrinth.com/mod/continuity/versions)
