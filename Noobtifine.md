@@ -91,8 +91,8 @@ my noob implementation to replace the need to use optifine
 **Antialiasing shader:** Sildur's+Basic+Shaders+v2.1+Fast.zip.txt  
 **Loader:** fabric-loader-0.14.23-1.20.1
 
-**Mods:**
-QoL:
+**Mods:**  
+QoL:  
 - [Appleskin](https://modrinth.com/mod/appleskin/versions)
 - [BetterControls](https://modrinth.com/mod/better-controls/versions)
 - [BetterMountHUD](https://modrinth.com/mod/better-mount-hud/versions)
@@ -110,7 +110,7 @@ QoL:
 - [TimestampChat](https://modrinth.com/mod/timestamp-chat/versions)
 - [Tweakaroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo/files/all?page=1&pageSize=20)
 - [Zoomify](https://modrinth.com/mod/zoomify/versions)
-Performance:
+Performance:  
 - [Bobby](https://modrinth.com/mod/bobby/versions)
 - [DynamicFPS](https://modrinth.com/mod/dynamic-fps/versions)
 - [EntityCulling](https://modrinth.com/mod/entityculling/versions)
@@ -126,11 +126,11 @@ Performance:
 - [ResolutionControl+](https://modrinth.com/mod/resolution-control-plus/versions)
 - [SodiumExtra](https://modrinth.com/mod/sodium-extra/versions)
 - [Sodium](https://modrinth.com/mod/sodium/versions)
-Cosmetics:
+Cosmetics:  
 - [Capes](https://modrinth.com/mod/capes/versions)
 - [Continuity](https://modrinth.com/mod/continuity/versions)
 - [Lambdynamiclights](https://modrinth.com/mod/lambdynamiclights/versions)
-Library/support:
+Library/support:  
 - [ClothConfig](https://modrinth.com/mod/cloth-config/versions)
 - [FabricLanguageKotlin](https://modrinth.com/mod/fabric-language-kotlin/versions)
 - [ModMenu](https://modrinth.com/mod/modmenu/versions)
