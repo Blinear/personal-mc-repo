@@ -110,6 +110,7 @@ QoL:
 - [TimestampChat](https://modrinth.com/mod/timestamp-chat/versions)
 - [Tweakaroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo/files/all?page=1&pageSize=20)
 - [Zoomify](https://modrinth.com/mod/zoomify/versions)
+
 Performance:  
 - [Bobby](https://modrinth.com/mod/bobby/versions)
 - [DynamicFPS](https://modrinth.com/mod/dynamic-fps/versions)
@@ -130,6 +131,7 @@ Cosmetics:
 - [Capes](https://modrinth.com/mod/capes/versions)
 - [Continuity](https://modrinth.com/mod/continuity/versions)
 - [Lambdynamiclights](https://modrinth.com/mod/lambdynamiclights/versions)
+
 Library/support:  
 - [ClothConfig](https://modrinth.com/mod/cloth-config/versions)
 - [FabricLanguageKotlin](https://modrinth.com/mod/fabric-language-kotlin/versions)
