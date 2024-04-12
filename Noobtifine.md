@@ -174,7 +174,7 @@ QoL:
 - [Malilib](https://www.curseforge.com/minecraft/mc-mods/malilib/files/all?page=1&pageSize=20)
 - [Minihud](https://www.curseforge.com/minecraft/mc-mods/minihud/files/all?page=1&pageSize=20)
 - [MoreChatHistory](https://modrinth.com/mod/morechathistory/versions)
-- ModDetectionPreventer
+- [ModDetectionPreventer](https://modrinth.com/mod/moddetectionpreventer/versions)
 - [NoTelemetry](https://modrinth.com/mod/no-telemetry/versions)
 - [RemoveReloadingScreen](https://modrinth.com/mod/rrls/versions)
 - [Stendhal](https://modrinth.com/mod/stendhal/versions)
