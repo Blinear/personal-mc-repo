@@ -2,6 +2,7 @@
 my noob implementation to replace the need to use optifine  
 ## Variants:
 ### Original:
+Discontinued, replaced by core variant
 <details>
   <summary>1.9</summary>
   
@@ -39,10 +40,16 @@ my noob implementation to replace the need to use optifine
 </details>
 
 ### Core:
-Stripped down extended version, includes all performance mods along with high priority QoL mods (like NoTelemetry)
+bare minimum Noobtifine configuration
+includes: 
+- all performance mods and libraries
+- high priority QoL mods (like NoTelemetry)
 
 ### Extended:
-
+Complete Noobtifine configuration
+includes:
+- everything
+- Optional features
 <details>
   <summary>1.9.3</summary>
   
