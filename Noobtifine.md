@@ -38,10 +38,8 @@ my noob implementation to replace the need to use optifine
 - [Zoomify](https://modrinth.com/mod/zoomify/versions)
 </details>
 
-<details>
-  <summary>after 1.9</summary>
-  Stripped down extended version, includes all performance mods along with high priority QoL mods (like NoTelemetry)
-</details>
+### Core:
+Stripped down extended version, includes all performance mods along with high priority QoL mods (like NoTelemetry)
 
 ### Extended:
 
