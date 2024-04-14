@@ -40,13 +40,13 @@ Discontinued, replaced by core variant
 </details>
 
 ### Core:
-bare minimum Noobtifine configuration
+bare minimum Noobtifine configuration  
 includes: 
 - all performance mods and libraries
 - high priority QoL mods (like NoTelemetry)
 
 ### Extended:
-Complete Noobtifine configuration
+Complete Noobtifine configuration  
 includes:
 - everything
 - Optional features
