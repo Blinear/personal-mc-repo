@@ -211,6 +211,7 @@ Cosmetics:
 - [Continuity](https://modrinth.com/mod/continuity/versions)
 - [EntityModelFeatures](https://modrinth.com/mod/entity-model-features/versions)
 - [EntityTextureFeatures](https://modrinth.com/mod/entitytexturefeatures/versions)
+- [FabricTailor](https://modrinth.com/mod/fabrictailor/versions)
 - [FabricSkyboxes](https://modrinth.com/mod/fabricskyboxes/versions)
 - [FabricSkyboxesInterop](https://modrinth.com/mod/fabricskyboxes-interop/versions)
 - [Lambdynamiclights](https://modrinth.com/mod/lambdynamiclights/versions)
