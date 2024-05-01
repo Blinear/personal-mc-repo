@@ -181,7 +181,7 @@ Library/support:
 </details>
 
 <details>
-  <summary>mc1.20.1+1.1</summary>
+  <summary>mc1.20.1+1.[1-2]</summary>
   
 **Antialiasing shader:** VanilAA 1.3
 **Loader:** fabric-loader-0.14.23-1.20.1
